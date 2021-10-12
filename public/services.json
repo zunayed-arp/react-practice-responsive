@@ -1,0 +1,51 @@
+[
+	{
+		"id": 1,
+		"name": "Replace Tire",
+		"price": 2000,
+		"time": 2,
+		"img": "https://images.unsplash.com/photo-1615906655593-ad0386982a0f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=387&q=80"
+	},
+	{
+		"id": 2,
+		"name": "Car Washing",
+		"price": 1000,
+		"time": 1,
+		"img": "https://ibb.co/px309nx"
+	},
+	{
+		"id": 3,
+		"name": "Engine Tuining",
+		"price": 1000,
+		"time": 3,
+		"img": "https://ibb.co/7ybGKc3"
+	},
+	{
+		"id": 4,
+		"name": "Glass Repair",
+		"price": 2000,
+		"time": 2,
+		"img": "https://ibb.co/kMyNFgJ"
+	},
+	{
+		"id": 5,
+		"name": "Seat Changes",
+		"price": 1000,
+		"time": 1,
+		"img": "https://ibb.co/8gTmscj"
+	},
+	{
+		"id": 6,
+		"name": "Gear Changes",
+		"price": 1000,
+		"time": 3,
+		"img": "https://ibb.co/C7x2S9F"
+	},
+	{
+		"id": 7,
+		"name": "Engine Oil changes",
+		"price": 1000,
+		"time": 1,
+		"img": "https://ibb.co/sFKZB57"
+	}
+]
