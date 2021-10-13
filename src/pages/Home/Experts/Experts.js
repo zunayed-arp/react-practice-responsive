@@ -39,7 +39,7 @@ const experts = [
 
 const Experts = () => {
 	return (
-		<div className="contaienr">
+		<div className="contaienr" id="experts">
 			<h2 className="text-primary mt-5">Our Experts</h2>
 			<div className="row">
 				{
